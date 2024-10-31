@@ -34,3 +34,8 @@ Since there are no MacOS drivers for Realtek cards you will need to use an exter
 Bluetooth also doesn't work so you will need a dongle, I personally use a CSR V4.0 and it works out of the box, bluetooth needs to be turned off and on after the dongle is connected for it to work.
 
 if you have a CSR V5.0 and you're experiencing issues [try this](https://www.reddit.com/r/hackintosh/comments/1g4z5te/how_to_make_generic_csr_usb_bluetooth_5040_dongle/).
+
+### Contact
+For any issues contact me on discord: **isaac.zsh** (sometimes isaac.one).
+
+I'm also in the [AMD OS X Discord Server](https://discord.com/invite/EfCYAJW).
