@@ -4,7 +4,7 @@ HP Laptop 15-fc0000 series EFI - Created with Dortania's OpenCore Install Guide
 **Processor:** Ryzen 7 7730U (This would probably work with [other processors HP produces the laptop with](https://support.hp.com/us-en/document/ish_7412013-7412050-16)).
 
 ### Notes (MUST DO)
-I included a censored `config.plist` file named `censored_config.plist`. You will have to rename it and add your own MLB, ROM, SystemSerialNumber and SystemUUID, use [this guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo) for doing so, I personally used `MacBookPro16,3` but it can be different depending on the processor.
+I included a censored `config.plist` file named `censored_config.plist` and `censored_config_no_nootedred.plist` for installation process. You will have to rename it and add your own MLB, ROM, SystemSerialNumber and SystemUUID, use [this guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo) for doing so, I personally used `MacBookPro16,3` but it can be different depending on the processor.
 
 The installer only won't work due to the NootedRed kext, for some reason it causes the installation to not work on Sonomo and above (Ventura works fine), for this NootedRed needs to be removed temporarily from the current config.plist then re-added after the installation is complete, you can use the `censored_config_no_nootedred.plist` file for that.
 
