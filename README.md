@@ -24,5 +24,8 @@ If you are using this EFI folder on a different laptop model, but similarly spec
 Also, you can avoid rebooting after a kernel panic by adding the following boot args: `debug=0x100` and `keepsyms=1`.
 
 #### Apps won't work or they're very slow
-
 [Refer to the notes above](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
+
+### Post-Install
+#### Wi-Fi 
+Since there are no MacOS drivers for Realtek cards you will need to use an external adapter, and for the adapter to work you will most likely need to use [this](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) too.
