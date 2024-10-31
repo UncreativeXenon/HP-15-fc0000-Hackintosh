@@ -6,6 +6,8 @@ HP Laptop 15-fc0000 series EFI - Created with Dortania's OpenCore Install Guide
 ### Notes (MUST DO)
 I included a censored `config.plist` file named `censored_config.plist`. You will have to rename it and add your own MLB, ROM, SystemSerialNumber and SystemUUID, use [this guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo) for doing so, I personally used `MacBookPro16,3` but it can be different depending on the processor.
 
+The installer only won't work due to the NootedRed kext, for some reason it causes the installation to not work on Sonomo and above (Ventura works fine), for this NootedRed needs to be removed temporarily from the current config.plist then re-added after the installation is complete.
+
 Another very important thing you **must** do is raise iGPU vram to 2GB or otherwise most apps won't work or they'll be very slow, usually this option is available within UEFI settings but unfortunately HP likes to lock settings like this behind (on some laptops).
 
 Hence we're gonna need to use a tool called [Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) (DO **NOT** USE THE BETA VERSION), navigate through **Device Manager > AMD CBS > NBIO Common Options > GFX Configuration**.
