@@ -21,4 +21,4 @@ Also, you can avoid rebooting after a kernel panic by adding the following boot 
 
 #### Apps won't work or they're very slow
 
-Refer to the notes above.
+[Refer to the notes above.](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do)
