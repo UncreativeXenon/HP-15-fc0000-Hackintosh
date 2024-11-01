@@ -1,4 +1,4 @@
-# HP 15-fc0000 - Sequoia
+# HP 15-fc0000 - Sequoia (Sonoma and Ventura too)
 HP Laptop 15-fc0000 series EFI - Created with Dortania's OpenCore Install Guide
 
 **Processor:** Ryzen 7 7730U (This would probably work with [other processors HP produces the laptop with](https://support.hp.com/us-en/document/ish_7412013-7412050-16)).
