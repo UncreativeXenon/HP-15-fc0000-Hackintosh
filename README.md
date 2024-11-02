@@ -42,3 +42,6 @@ if you have a CSR V5.0 and you're experiencing issues [try this](https://www.red
 If you need help or for any issues add me on discord: **isaac.zsh** (sometimes isaac.one).
 
 I'm also in the [AMD OS X Discord Server](https://discord.com/invite/EfCYAJW).
+
+# Credits for Help
+[rh45-one](https://github.com/rh45-one) and his [Hakintosh repo](https://github.com/rh45-one/ThinkPad-E14-Hackintosh), this wouldn't have been possible without him.
