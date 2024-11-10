@@ -18,12 +18,17 @@ Set iGPU Configuration to "**UMA_GAME_OPTIMIZED**", then save and exit.
 
 **Important note:** usually people would set this to "UMA_SPECIFIED" and select 2G, however for some reason that doesn't work on this HP Laptop, possibly has to do with the UEFI reverting the change, **so a very good act would be to avoid *ever* updating the UEFI firmware as the current solution might get patched eventually**, be careful.
 
+***One more thing***, you may often have shutdowns due to laptop overheating, the fix for this is simple, use Smokeless_UMAF again and navigate through **Device Manager > AMD CBS > CPU Common Options > Core Performance Boost** and set it to Disabled, this should hopefully prevent overheating issues.
+
 ### Troubleshooting
 #### Post-Install Kernel Panic 
 If you are using this EFI folder on a different laptop model, but similarly specced and get a kernel panic after installing MacOS, make sure to customize the USB port configuration to match your device.<br/> 
 Also, you can avoid rebooting after a kernel panic by adding the following boot args: `debug=0x100` and `keepsyms=1`.
 
 #### Apps won't work or they're very slow
+[Refer to the notes above](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
+
+### Repetitive shutdown due to overheat
 [Refer to the notes above](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
 
 ### Post-Install
