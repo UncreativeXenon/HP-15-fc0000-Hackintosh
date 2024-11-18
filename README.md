@@ -44,7 +44,7 @@ if you have a CSR V5.0 and you're experiencing issues [try this](https://www.red
 [Use this to fix it](https://github.com/qhuyduong/AMDMicrophone).
 
 ### Contact
-If you need help or for any issues add me on discord: **isaac.zsh** (sometimes isaac.one).
+If you need help or for any issues add me on discord: **bunny.isaac**.
 
 I'm also in the [AMD OS X Discord Server](https://discord.com/invite/EfCYAJW).
 
