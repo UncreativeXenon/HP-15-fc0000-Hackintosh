@@ -3,7 +3,9 @@ HP Laptop 15-fc0000 series EFI - Created with Dortania's OpenCore Install Guide
 
 **Processor:** Ryzen 7 7730U.
 
-This should work with **Ryzen 5 7530U** too, as for Athlon chips I'm uncertain.
+This should work with **Ryzen 5 7530U** too.
+
+As for Athlon chips I'm uncertain.
 
 ### Notes (MUST DO)
 I included two censored `config.plist` files named `censored_config.plist` and `censored_config_no_nootedred.plist` (second is for installation process only). You will have to rename it and add your own MLB, ROM, SystemSerialNumber and SystemUUID, use [this guide](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#platforminfo) for doing so, I personally used `MacBookPro16,3` but it can be different if you're using another processor.
