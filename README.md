@@ -40,7 +40,7 @@ Also, you can avoid rebooting after a kernel panic by adding the following boot 
 Since there are no MacOS drivers for Realtek cards you will need to use an external adapter, and for the adapter to work you will most likely need to use [this](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) too.
 
 #### Bluetooth 
-Bluetooth also doesn't work so you will need a dongle, **bluetooth needs to be turned off and on after the dongle is connected**, otherwise it won't work.
+Bluetooth also doesn't work so you will need a dongle and **bluetooth needs to be turned off and on after the dongle is connected**, otherwise it won't work.
 
 I personally use a CSR V4.0 and it works out of the box.
 
