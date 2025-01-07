@@ -40,7 +40,7 @@ Bluetooth also doesn't work so you will need a dongle and **bluetooth needs to b
 
 I personally use a CSR V4.0 and it works out of the box.
 
-if you have a CSR V5.0 and you're experiencing issues [try this](https://www.reddit.com/r/hackintosh/comments/1g4z5te/how_to_make_generic_csr_usb_bluetooth_5040_dongle/).
+if you have a CSR V5.0 and you're experiencing issues [try this](https://www.reddit.com/r/hackintosh/comments/1g4z5te).
 
 #### Microphone
 [Use this to fix it](https://github.com/qhuyduong/AMDMicrophone).
