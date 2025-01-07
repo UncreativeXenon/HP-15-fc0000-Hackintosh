@@ -33,7 +33,7 @@ Set iGPU Configuration to "**UMA_GAME_OPTIMIZED**", then save and exit.
 
 ### Post-Install
 #### Wi-Fi 
-Since there are no MacOS drivers for Realtek cards you will need to use an external adapter, and for the adapter to work you will most likely need to use [this](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) too.
+Since there are no macOS drivers for Realtek cards you will need to use an external adapter, and for the adapter to work you will most likely need to use [this](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) too.
 
 #### Bluetooth 
 Bluetooth also doesn't work so you will need a dongle and **bluetooth needs to be turned off and on after the dongle is connected**, otherwise it won't work.
