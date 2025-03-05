@@ -26,10 +26,10 @@ Set iGPU Configuration to "**UMA_GAME_OPTIMIZED**", then save and exit.
 
 ### Troubleshooting
 #### Apps won't work or they're very slow
-[Refer to the notes above](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
+[Refer to the notes above](https://github.com/BunnyIsaac/HP-15-fc0000-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
 
 #### Repetitive shutdown due to overheating
-[Refer to the notes above](https://github.com/Isaac-zsh/HP-15-fc0000-Ryzentosh-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
+[Refer to the notes above](https://github.com/BunnyIsaac/HP-15-fc0000-Hackintosh/tree/main?tab=readme-ov-file#notes-must-do).
 
 ### Post-Install
 #### Wi-Fi 
@@ -51,4 +51,4 @@ If you need help or for any issues add me on discord: **bunny.isaac**.
 I'm also in the [AMD OS X Discord Server](https://discord.com/invite/EfCYAJW).
 
 ### Credits for helping me
-* [rh45-one](https://github.com/rh45-one) and his [Hakintosh repo](https://github.com/rh45-one/ThinkPad-E14-Hackintosh), this wouldn't have been possible without him.
+* [rh45-one](https://github.com/rh45-one) and his [Hackintosh repo](https://github.com/rh45-one/ThinkPad-E14-Hackintosh), this wouldn't have been possible without him.
