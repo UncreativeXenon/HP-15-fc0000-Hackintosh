@@ -3,7 +3,7 @@ HP Laptop 15-fc0000 series EFI - Created with Dortania's OpenCore Install Guide
 
 **Processor:** Ryzen 7 7730U.
 
-This should work with **Ryzen 5 7530U** too.
+> This *should* work with **Ryzen 5 7530U** too.
 
 As for Athlon chips I'm uncertain.
 
